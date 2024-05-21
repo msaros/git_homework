@@ -4,3 +4,5 @@
 #basic commands: for local - add, commit, status, log and for remote - push, fetch, merge, pull
 #things can be resolved easily before commit, so pay attention to what is committed
 #if the guidelines are followed (commits are relevant with the right message, conflicts are resolved correctly and there are no branches and changes without a purpose) - then no problem :)
+
+#new comment - make sure you always know what branch to use for that specific operation
